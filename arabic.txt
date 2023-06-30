@@ -1,6 +1,6 @@
 {
   "language": "عربي",
-  "startmenu.new_game": "لعبة جديدة",
+  "startmenu.new_game": "ﺓﺪﻳﺪﺟ ﺔﺒﻌﻟ ",
   "startmenu.multiplayer": "متعددة الاعبيين",
   "startmenu.resume_game": "واصل اللعب",
   "startmenu.settings": "خيارات",
